@@ -1,5 +1,7 @@
 # Bibliotecas de UI animadas
 
+🇺🇸 [Read in English](README.en.md)
+
 Três bibliotecas de componentes para dar mais vida a interfaces modernas, cada uma com uma proposta diferente.
 
 ---
